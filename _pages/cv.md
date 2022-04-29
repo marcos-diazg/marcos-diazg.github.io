@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S./M.S. Civil Engineering, Universidade da Coruña, 2015
+* M.S. Biomedicine, Universitat de Barcelona, 2016
+* Ph.D Medicine and Translational Research, Universitat de Barcelona, 2019
 
 Work experience
 ======
