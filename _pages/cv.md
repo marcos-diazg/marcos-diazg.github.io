@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Full CV](../files/CV_MDG_APR2022.pdf)
+
 Education
 ======
 * B.S./M.S. Civil Engineering, Universidade da Coruña, 2015
