@@ -15,26 +15,18 @@ Education
 * M.S. Biomedicine, Universitat de Barcelona, 2016
 * Ph.D Medicine and Translational Research, Universitat de Barcelona, 2019
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Universidade da Coruña
+  * 2013 – 2015: Research assistant (Water and Environmental Engineering group)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Institut d'Investigacions Biomèdiques August Pi i Sunyer / Universitat de Barcelona
+  * 2015 – 2016: M.S. student (Genetic Predisposition to Gastrointestinal Cancer group)
+  * 2016 – 2019: Ph.D. student (Genetic Predisposition to Gastrointestinal Cancer group)
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* University of California, San Diego
+  * 2019: Visiting graduate student (Ludmil B. Alexandrov lab)
+  * 2020 – Present: Postdoctoral scholar (Ludmil B. Alexandrov lab)
 
 Publications
 ======
@@ -53,7 +45,4 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+ 
