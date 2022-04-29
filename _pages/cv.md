@@ -13,7 +13,7 @@ Education
 ======
 * B.S./M.S. Civil Engineering, Universidade da Coruña, 2015
 * M.S. Biomedicine, Universitat de Barcelona, 2016
-* Ph.D Medicine and Translational Research, Universitat de Barcelona, 2019
+* Ph.D. Medicine and Translational Research, Universitat de Barcelona, 2019
 
 Research experience
 ======
