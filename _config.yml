@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Marcos Díaz-GAy"
+  name             : "Marcos Díaz-Gay"
   avatar           : "Foto_CV_SEP2020.jpg"
-  bio              : "Postdoctoral Scholar at the Alexandrov lab"
+  bio              : "Postdoctoral Scholar at the Alexandrov lab (UC San Diego)"
   location         : "San Diego, CA, USA"
-  employer         : "UC San Dieog"
+  employer         : 
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=marcos+diaz-gay"
   googlescholar    : "https://scholar.google.es/citations?user=0qxRj2YAAAAJ&hl=es"
   email            : "mdiazgay@health.ucsd.edu"
