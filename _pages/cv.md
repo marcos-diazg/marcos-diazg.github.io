@@ -27,22 +27,3 @@ Research experience
 * University of California, San Diego
   * 2019: Visiting graduate student (Ludmil B. Alexandrov lab)
   * 2020 – Present: Postdoctoral scholar (Ludmil B. Alexandrov lab)
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
- 
