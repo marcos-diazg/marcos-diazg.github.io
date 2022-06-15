@@ -11,6 +11,7 @@ author_profile: true
 
 {% endif %}
 
+24\. “Unraveling the genomic landscape of cancer through de novo extraction of mutational signatures” *ISCB academy, International Society for Computational Biology* (virtual), June 2022. (Oral, **Invited**)
 
 23\. “Genomic characterization of colorectal cancer across the world by de novo extraction of mutational signatures with SigProfilerExtractor” *European Association for Cancer Research Congress*, Seville, Spain, June 2022. (Oral)
 
