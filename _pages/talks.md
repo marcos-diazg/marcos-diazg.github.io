@@ -11,6 +11,10 @@ author_profile: true
 
 {% endif %}
 
+26\. “Uncovering novel mutational signatures by de novo extraction with SigProfilerExtractor” *Cancer Grand Challenges Future Leaders Conference, Cancer Research UK & National Cancer Institute*, Barcelona, Spain, November 2022. (Poster)
+
+25\. “Uncovering novel mutational signatures by de novo extraction with SigProfilerExtractor” *Moores Cancer Center Delivering Discoveries Scientific Retreat, UC San Diego*, La Jolla, CA, USA, October 2022. (Poster)
+
 24\. “Unraveling the genomic landscape of cancer through de novo extraction of mutational signatures” *ISCB academy, International Society for Computational Biology* (virtual), June 2022. (Oral, **Invited**)
 
 23\. “Genomic characterization of colorectal cancer across the world by de novo extraction of mutational signatures with SigProfilerExtractor” *European Association for Cancer Research Congress*, Seville, Spain, June 2022. (Oral)
