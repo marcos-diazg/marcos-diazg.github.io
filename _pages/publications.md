@@ -7,10 +7,10 @@ author_profile: true
 
 [Google Scholar Profile](https://scholar.google.es/citations?user=0qxRj2YAAAAJ&hl=es)
 
-[Web of Science Publons Profile](https://publons.com/researcher/G-4864-2017/)
+[Web of Science Profile](https://www.webofscience.com/wos/author/record/G-4864-2017)
 
 
-17\. Islam SMA\*, __Díaz-Gay M__\*, Wu Y, Barnes M, Vangara R, Bergstrom EN, He Y, Vella M, Wang J, Teague JW, Clapham P, Moody S, Senkin S, Li YR, Riva L, Zhang T, Gruber AJ, Steele CD, Otlu B, Khandekar A, Abbasi A, Humphreys L, Syulyukina N, Brady SW, Alexandrov BS, Pillay N, Zhang J, Adams DJ, Martincorena I, Wedge DC, Landi MT, Brennan P, Stratton MR, Rozen SG, Alexandrov LB. “Uncovering novel mutational signatures by de novo extraction with SigProfilerExtractor” *bioRxiv*, 2022. (Preprint) [[doi](https://doi.org/10.1101/2020.12.13.422570)]
+17\. Islam SMA\*, __Díaz-Gay M__\*, Wu Y, Barnes M, Vangara R, Bergstrom EN, He Y, Vella M, Wang J, Teague JW, Clapham P, Moody S, Senkin S, Li YR, Riva L, Zhang T, Gruber AJ, Steele CD, Otlu B, Khandekar A, Abbasi A, Humphreys L, Syulyukina N, Brady SW, Alexandrov BS, Pillay N, Zhang J, Adams DJ, Martincorena I, Wedge DC, Landi MT, Brennan P, Stratton MR, Rozen SG, Alexandrov LB. “Uncovering novel mutational signatures by *de novo* extraction with SigProfilerExtractor.” *Cell Genomics*, 2022. [[doi](https://doi.org/10.1016/j.xgen.2022.100179)]
 
 16\. __Díaz-Gay M__, Alexandrov LB. “Unraveling the genomic landscape of colorectal cancer through mutational signatures.” *Advances in Cancer Research*, 2021. (Book chapter) [[doi](https://doi.org/10.1016/bs.acr.2021.03.003)]
 
