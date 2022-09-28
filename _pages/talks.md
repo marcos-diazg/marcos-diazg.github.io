@@ -11,6 +11,9 @@ author_profile: true
 
 {% endif %}
 
+
+27\. “Uncovering novel mutational signatures of tobacco smoking with SigProfilerExtractor.” *SoCal Genome Stability Symposium, UC Irvine*, Irvine, CA, USA, December 2022. (Oral, **Invited**)
+
 26\. “Uncovering novel mutational signatures by de novo extraction with SigProfilerExtractor” *Cancer Grand Challenges Future Leaders Conference, Cancer Research UK & National Cancer Institute*, Barcelona, Spain, November 2022. (Poster)
 
 25\. “Uncovering novel mutational signatures by de novo extraction with SigProfilerExtractor” *Moores Cancer Center Delivering Discoveries Scientific Retreat, UC San Diego*, La Jolla, CA, USA, October 2022. (Poster)
