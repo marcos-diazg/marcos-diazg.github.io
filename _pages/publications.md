@@ -9,8 +9,11 @@ author_profile: true
 
 [Web of Science Profile](https://www.webofscience.com/wos/author/record/G-4864-2017)
 
+19\. Bonjoch L, Soares de Lima Y, __Díaz-Gay M__, Dotti I, Muñoz J, Moreira L, Carballal S, Ocaña T, Cuatrecasas M, Ortiz O, Castells A, Pellisé M, Balaguer F, Salas A, Alexandrov LB, Castellví-Bel S. "Unraveling the impact of a germline heterozygous _POLD1_ frameshift variant in serrated polyposis syndrome." *Frontiers in Molecular Biosciences*, 2023 [[doi](https://doi.org/10.3389/fmolb.2023.1119900)]
 
-17\. Islam SMA\*, __Díaz-Gay M__\*, Wu Y, Barnes M, Vangara R, Bergstrom EN, He Y, Vella M, Wang J, Teague JW, Clapham P, Moody S, Senkin S, Li YR, Riva L, Zhang T, Gruber AJ, Steele CD, Otlu B, Khandekar A, Abbasi A, Humphreys L, Syulyukina N, Brady SW, Alexandrov BS, Pillay N, Zhang J, Adams DJ, Martincorena I, Wedge DC, Landi MT, Brennan P, Stratton MR, Rozen SG, Alexandrov LB. “Uncovering novel mutational signatures by *de novo* extraction with SigProfilerExtractor.” *Cell Genomics*, 2022. [[doi](https://doi.org/10.1016/j.xgen.2022.100179)]
+18\. Islam SMA\*, __Díaz-Gay M__\*, Wu Y, Barnes M, Vangara R, Bergstrom EN, He Y, Vella M, Wang J, Teague JW, Clapham P, Moody S, Senkin S, Li YR, Riva L, Zhang T, Gruber AJ, Steele CD, Otlu B, Khandekar A, Abbasi A, Humphreys L, Syulyukina N, Brady SW, Alexandrov BS, Pillay N, Zhang J, Adams DJ, Martincorena I, Wedge DC, Landi MT, Brennan P, Stratton MR, Rozen SG, Alexandrov LB. “Uncovering novel mutational signatures by *de novo* extraction with SigProfilerExtractor.” *Cell Genomics*, 2022. [[doi](https://doi.org/10.1016/j.xgen.2022.100179)]
+
+17\. Soares de Lima Y, Arnau-Collell C, Muñoz J, Herrera-Pariente C, Moreira L, Ocaña T, __Díaz-Gay M__, Franch-Expósito S, Cuatrecasas M, Carballal S, Lopez-Novo A, Moreno L, Fernàndez G, Díaz de Bustamante A, Peters S, Sommer AK, Spier I, Te Paske IBAW, van Herwaarden YJ, Castells A, Bujanda L, Capellà G, Steinke-Lange V, Mahmood K, Joo JE, Arnold J, Parry S, Macrae FA, Winship IM, Rosty C, Cubiella J, Rodríguez-Alcalde D, Holinski-Feder E, de Voer R, Buchanan DD, Aretz S, Ruiz-Ponte C, Valle L, Balaguer F, Bonjoch L, Castellvi-Bel S. "Germline mutations in WNK2 could be associated with serrated polyposis syndrome." *Journal of Medical Genetics*, 2022 [[doi](https://doi.org/10.1136/jmg-2022-108684)]
 
 16\. __Díaz-Gay M__, Alexandrov LB. “Unraveling the genomic landscape of colorectal cancer through mutational signatures.” *Advances in Cancer Research*, 2021. (Book chapter) [[doi](https://doi.org/10.1016/bs.acr.2021.03.003)]
 
