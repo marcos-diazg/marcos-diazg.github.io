@@ -12,6 +12,10 @@ author_profile: true
 {% endif %}
 
 
+25\. “Unravelling the genomic landscape of cancer through mutational signatures.” *Curso de Entrenamiento Intensivo para el Manejo Interdisciplinario de los Tumores Digestivos, Intergrupo Argentino para el Tratamiento de los Tumores Gastrointestinales* (virtual), September 2023. (Oral, **Invited**)
+
+24\. “Unravelling the genomic landscape of cancer through mutational signatures.” *Future Leaders Virtual Seminar Series, Cancer Grand Challenges (CRUK & NCI)* (virtual), July 2023. (Oral, **Invited**)
+
 23\. “Uncovering novel mutational signatures of tobacco smoking with SigProfilerExtractor.” *SoCal Genome Stability Symposium, UC Irvine*, Irvine, CA, USA, December 2022. (Oral, **Invited**)
 
 22\. “Uncovering novel mutational signatures by de novo extraction with SigProfilerExtractor” *Cancer Grand Challenges Future Leaders Conference, Cancer Research UK & National Cancer Institute*, Barcelona, Spain, November 2022. (Poster)
