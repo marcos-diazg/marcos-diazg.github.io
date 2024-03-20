@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Full CV](../files/CV_MDG_APR2022.pdf)
+[Full CV](../files/CV_extended_Marcos-Diaz-Gay_FEB2024.pdf)
 
 Education
 ======
