@@ -11,7 +11,7 @@ redirect_from:
 
 ## [Full CV](../files/CV_extended_Marcos-Diaz-Gay_FEB2024.pdf)
 
-### Research positions
+## Research positions
 
 * UC San Diego ([Ludmil B. Alexandrov lab](https://alexandrov.cloud.ucsd.edu/))
   * 2020 – Present: Postdoctoral scholar
@@ -24,14 +24,14 @@ redirect_from:
 * Universidade da Coruña ([Water and Environmental Engineering group](http://www.geama.org/environment-and-sanitary-engineering/))
   * 2013 – 2015: Research assistant
 
-### Teaching positions
+## Teaching positions
 
 * UC San Diego ([School of Biological Sciences](https://biology.ucsd.edu/))
   
   * 2023: Lecturer for BIMM 143 - Bioinformatics Lab [[Class website](https://labbioinfo.org)]
 
 
-### Education
+## Education
 * Ph.D. Medicine and Translational Research, Universitat de Barcelona, 2019
 * M.S. Biomedicine, Universitat de Barcelona, 2016
 * B.S./M.S. Civil Engineering, Universidade da Coruña, 2015
