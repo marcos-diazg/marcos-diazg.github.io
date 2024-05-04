@@ -20,7 +20,7 @@ author_profile: true
 
 23\. Bergstrom E, Abbasi A, __Díaz-Gay M__, Galland L, Lippman SM, Ladoire S, Alexandrov LB. "Deep learning predicts HRD and platinum response from histology slides in breast and ovarian cancer." *medRxiv (under review)*, 2023 [[doi](https://doi.org/10.1101/2023.02.23.23285869)]
 
-22\. __Díaz-Gay M__^, Vangara R, Barnes M, Wang X, Islam SMA, Vermes I, Duke S, Narasimman NB, Yang T, Jiang Z, Moody S, Senkin S, Brennan P, Stratton MR, Alexandrov LB^. "Assigning mutational signatures to individual samples and individual somatic mutations with SigProfilerAssignment." *Bioinformatics", 2023 [doi](https://doi.org/10.1093/bioinformatics/btad756)
+22\. __Díaz-Gay M__^, Vangara R, Barnes M, Wang X, Islam SMA, Vermes I, Duke S, Narasimman NB, Yang T, Jiang Z, Moody S, Senkin S, Brennan P, Stratton MR, Alexandrov LB^. "Assigning mutational signatures to individual samples and individual somatic mutations with SigProfilerAssignment." *Bioinformatics*, 2023 [doi](https://doi.org/10.1093/bioinformatics/btad756)
 
 21\. Khandekar A, Vangara R, Barnes M, __Díaz-Gay M__, Abbasi A, Bergstrom EN, Steele CD, Pillay N, Alexandrov LB. "Visualizing and exploring patterns of large mutational events with SigProfilerMatrixGenerator." *BMC Genomics*, 2023 [[doi](https://doi.org/10.1186/s12864-023-09584-y)]
 
