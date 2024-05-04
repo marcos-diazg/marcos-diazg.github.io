@@ -17,7 +17,7 @@ redirect_from:
   * 2020 – Present: Postdoctoral scholar
   * 2019: Visiting Ph.D. student
   
-* Institut d'Investigacions Biomèdiques August Pi i Sunyer (IDIBAPS; [Genetic Predisposition to Gastrointestinal Cancer group](https://www.clinicbarcelona.org/en/idibaps/research-areas/liver-digestive-system-and-metabolism/genetic-predisposition-to-gastrointestinal-cancer))
+* Institut d'Investigacions Biomèdiques August Pi i Sunyer ([Genetic Predisposition to Gastrointestinal Cancer group](https://www.clinicbarcelona.org/en/idibaps/research-areas/liver-digestive-system-and-metabolism/genetic-predisposition-to-gastrointestinal-cancer))
   * 2016 – 2019: Ph.D. student
   * 2015 – 2016: M.S. student
   
@@ -27,11 +27,11 @@ redirect_from:
 ## Teaching positions
 
 * UC San Diego ([School of Biological Sciences](https://biology.ucsd.edu/))
-  
   * 2023: Lecturer for BIMM 143 - Bioinformatics Lab [[Class website](https://labbioinfo.org)]
 
 
 ## Education
+
 * Ph.D. Medicine and Translational Research, Universitat de Barcelona, 2019
 * M.S. Biomedicine, Universitat de Barcelona, 2016
 * B.S./M.S. Civil Engineering, Universidade da Coruña, 2015
