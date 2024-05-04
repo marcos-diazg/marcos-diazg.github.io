@@ -9,11 +9,32 @@ author_profile: true
 
 [Web of Science Profile](https://www.webofscience.com/wos/author/record/G-4864-2017)
 
+### 2024
+26\. Torrens L, Moody S, de Carvalho AC, Kazachkova M, Abedi-Ardekani B, Cheema S, Senkin S, Cattiaux T, Cortez Cardoso Penha R, Atkins JR, Gaborieau V, Chopard P, Carreira C, Abbasi A, Bergstrom EN, Vangara R, Wang J, Fitzgerald S, Latimer C, __Diaz-Gay M__, Jones D, Teague J, Ribeiro Pinto F, Kowalski LP, Polesel J, Giudici F, de Oliveira JC, Lagiou P, Lagiou A, Vilensky M, Mates D, Mates IN, Arantes LM, Reis R, Podesta JRV, von Zeidler SV, Holcatova I, Curado MP, Canova C, Fabianova E, Rodríguez-Urrego PA, Humphreys L, Alexandrov LB, Brennan P, Stratton MR, Perdomo S. "The Complexity of Tobacco Smoke-Induced Mutagenesis in Head and Neck Cancer." *medRxiv (under review)*, 2024 [[doi](https://doi.org/10.1101/2024.04.15.24305006)]
+
+25\. Zhang T, Sang J, Hoang PH, Zhao W, Rosenbaum J, Johnson KE, Klimczak LJ, McElderry J, Klein A, Wirth C, Bergstrom EN, __Díaz-Gay M__, Vangara R, Colon-Matos F, Hutchinson A, Lawrence SM, Cole N, Zhu B, Przytycka TM, Shi J, Caporaso NE, Homer R, Pesatori AC, Consonni D, Imielinski M, Chanock SJ, Wedge DC, Gordenin DA, Alexandrov LB, Harris RS, Landi MT. "APOBEC shapes tumor evolution and age at onset of lung cancer in smokers." *bioRxiv (under review)*, 2024 [[doi](https://doi.org/10.1101/2024.04.02.587805)]
+
+24\. Senkin S*, Moody S*, __Díaz-Gay M__, Abedi-Ardekani B, Cattiaux T, Ferreiro-Iglesias A, Wang J, Fitzgerald S, Kazachkova M, Vangara R, Le AP, Bergstrom EN, Khandekar A, Otlu B, Cheema S, Latimer C, Thomas E, Atkins JR, Smith-Byrne K, Cortez Cardoso Penha R, Carreira C, Chopard P, Gaborieau V, Keski-Rahkonen P, Jones D, Teague JW, Ferlicot S, Asgari M, Sangkhathat S, Attawettayanon W, Świątkowska B, Jarmalaite S, Sabaliauskaite R, Shibata T, Fukagawa A, Mates D, Jinga V, Rascu S, Mijuskovic M, Savic S, Milosavljevic S, Bartlett JMS, Albert M, Phouthavongsy L, Ashton-Prolla P, Botton MR, Silva Neto B, Bezerra SM, Curado MP, Zequi SC, Reis RM, Faria EF, de Menezes NS, Ferrari RS, Banks RE, Vasudev NS, Zaridze D, Mukeriya A, Shangina O, Matveev V, Foretova L, Navratilova M, Holcatova I, Hornakova A, Janout V, Purdue MP, Rothman N, Chanock SJ, Ueland PM, Johansson M, McKay J, Scelo G, Chanudet E, Humphreys L, de Carvalho AC, Perdomo S, Alexandrov LB, Stratton MR, Brennan P. "Geographic variation of mutagenic exposures in kidney cancer genomes." *Nature*, 2024 [[doi](https://doi.org/10.1038/s41586-024-07368-2)]
+
+### 2023
+
+23\. Bergstrom E, Abbasi A, __Díaz-Gay M__, Galland L, Lippman SM, Ladoire S, Alexandrov LB. "Deep learning predicts HRD and platinum response from histology slides in breast and ovarian cancer." *medRxiv (under review)*, 2023 [[doi](https://doi.org/10.1101/2023.02.23.23285869)]
+
+22\. __Díaz-Gay M__^, Vangara R, Barnes M, Wang X, Islam SMA, Vermes I, Duke S, Narasimman NB, Yang T, Jiang Z, Moody S, Senkin S, Brennan P, Stratton MR, Alexandrov LB^. "Assigning mutational signatures to individual samples and individual somatic mutations with SigProfilerAssignment." *Bioinformatics", 2023 [doi](https://doi.org/10.1093/bioinformatics/btad756)
+
+21\. Khandekar A, Vangara R, Barnes M, __Díaz-Gay M__, Abbasi A, Bergstrom EN, Steele CD, Pillay N, Alexandrov LB. "Visualizing and exploring patterns of large mutational events with SigProfilerMatrixGenerator." *BMC Genomics*, 2023 [[doi](https://doi.org/10.1186/s12864-023-09584-y)]
+
+20\. Otlu B, __Díaz-Gay M__, Vermes I, Bergstrom EN, Zhivagui M, Barnes M, Alexandrov LB. "Topography of mutational signatures in human cancer." *Cell Reports*, 2023 [[doi](https://doi.org/10.1016/j.celrep.2023.112930)]
+
 19\. Bonjoch L, Soares de Lima Y, __Díaz-Gay M__, Dotti I, Muñoz J, Moreira L, Carballal S, Ocaña T, Cuatrecasas M, Ortiz O, Castells A, Pellisé M, Balaguer F, Salas A, Alexandrov LB, Castellví-Bel S. "Unraveling the impact of a germline heterozygous _POLD1_ frameshift variant in serrated polyposis syndrome." *Frontiers in Molecular Biosciences*, 2023 [[doi](https://doi.org/10.3389/fmolb.2023.1119900)]
 
-18\. Islam SMA\*, __Díaz-Gay M__\*, Wu Y, Barnes M, Vangara R, Bergstrom EN, He Y, Vella M, Wang J, Teague JW, Clapham P, Moody S, Senkin S, Li YR, Riva L, Zhang T, Gruber AJ, Steele CD, Otlu B, Khandekar A, Abbasi A, Humphreys L, Syulyukina N, Brady SW, Alexandrov BS, Pillay N, Zhang J, Adams DJ, Martincorena I, Wedge DC, Landi MT, Brennan P, Stratton MR, Rozen SG, Alexandrov LB. “Uncovering novel mutational signatures by *de novo* extraction with SigProfilerExtractor.” *Cell Genomics*, 2022. [[doi](https://doi.org/10.1016/j.xgen.2022.100179)]
+### 2022
+
+18\. Islam SMA\*, __Díaz-Gay M__\*, Wu Y, Barnes M, Vangara R, Bergstrom EN, He Y, Vella M, Wang J, Teague JW, Clapham P, Moody S, Senkin S, Li YR, Riva L, Zhang T, Gruber AJ, Steele CD, Otlu B, Khandekar A, Abbasi A, Humphreys L, Syulyukina N, Brady SW, Alexandrov BS, Pillay N, Zhang J, Adams DJ, Martincorena I, Wedge DC, Landi MT, Brennan P, Stratton MR, Rozen SG, Alexandrov LB. “Uncovering novel mutational signatures by *de novo* extraction with SigProfilerExtractor.” *Cell Genomics*, 2022. [[doi](https://doi.org/10.1016/j.xgen.2022.100179)]  [[journal cover](https://www.sciencedirect.com/journal/cell-genomics/vol/2/issue/11)]
 
 17\. Soares de Lima Y, Arnau-Collell C, Muñoz J, Herrera-Pariente C, Moreira L, Ocaña T, __Díaz-Gay M__, Franch-Expósito S, Cuatrecasas M, Carballal S, Lopez-Novo A, Moreno L, Fernàndez G, Díaz de Bustamante A, Peters S, Sommer AK, Spier I, Te Paske IBAW, van Herwaarden YJ, Castells A, Bujanda L, Capellà G, Steinke-Lange V, Mahmood K, Joo JE, Arnold J, Parry S, Macrae FA, Winship IM, Rosty C, Cubiella J, Rodríguez-Alcalde D, Holinski-Feder E, de Voer R, Buchanan DD, Aretz S, Ruiz-Ponte C, Valle L, Balaguer F, Bonjoch L, Castellvi-Bel S. "Germline mutations in WNK2 could be associated with serrated polyposis syndrome." *Journal of Medical Genetics*, 2022 [[doi](https://doi.org/10.1136/jmg-2022-108684)]
+
+### 2021
 
 16\. __Díaz-Gay M__, Alexandrov LB. “Unraveling the genomic landscape of colorectal cancer through mutational signatures.” *Advances in Cancer Research*, 2021. (Book chapter) [[doi](https://doi.org/10.1016/bs.acr.2021.03.003)]
 
@@ -23,6 +44,8 @@ author_profile: true
 
 13\. Herrera-Pariente C, Capó-García R, __Díaz-Gay M__, Carballal S, Muñoz J, Llach J, Sánchez A, Bonjoch L, Arnau-Collell C, Soares de Lima Y, Golubicki M, Jung G, Lozano JJ, Castells A, Balaguer F, Bujanda L, Castellví-Bel S, Moreira L. “Identification of New Genes Involved in Germline Predisposition to Early-Onset Gastric Cancer.” *International Journal of Molecular Sciences*, 2021. [[doi](https://doi.org/10.3390/ijms22031310)]
 
+### 2020
+
 12\. Golubicki M, Bonjoch L, Acuña-Ochoa JG, __Díaz-Gay M__, Muñoz J, Cuatrecasas M, Ocaña T, Iseas S, Mendez G, Cisterna D, Schubert SA, Nielsen M, van Wezel T, Goldberg Y, Pikarsky E, Robbio J, Roca E, Castells A, Balaguer F, Antelo M, Castellví-Bel S. “Germline biallelic Mcm8 variants are associated with early-onset Lynch-like syndrome.” *JCI Insight*, 2020. [[doi](https://doi.org/10.1172/jci.insight.140698)]
 
 11\. Bonjoch L, Franch-Expósito S, Garre P, Belhadj S, Muñoz J, Arnau-Collell C, __Díaz-Gay M__, Gratacós-Mulleras A, Raimondi G, Esteban-Jurado C, Soares de Lima Y, Herrera-Pariente C, Cuatrecasas M, Ocaña T, Castells A, Fillat C, Capellá G, Balaguer F, Caldés T, Valle L, Castellví-Bel S. “Germline Mutations in FAF1 Are Associated With Hereditary Colorectal Cancer.” *Gastroenterology*, 2020. [[doi](https://doi.org/10.1053/j.gastro.2020.03.015)]
@@ -30,6 +53,8 @@ author_profile: true
 10\. Arnau-Collell C, Soares de Lima Y, __Díaz-Gay M__, Muñoz J, Carballal S, Bonjoch L, Moreira L, Lozano JJ, Ocaña T, Cuatrecasas M, Díaz de Bustamante A, Castells A, Capellà G, Bujanda L, Cubiella J, Rodríguez-Alcalde D, Balaguer F, Ruiz-Ponte C, Valle L, Moreno V, Castellvi-Bel S. “Colorectal cancer genetic variants are also associated with serrated polyposis syndrome susceptibility.” *Journal of Medical Genetics*, 2020. [[doi](https://doi.org/10.1136/jmedgenet-2019-106374)]
 
 9\. Franch-Expósito S, Bassaganyas L, Vila-Casadesús M, Hernández-Illán E, Esteban-Fabró R, __Díaz-Gay M__, Lozano JJ, Castells A, Llovet JM, Castellví-Bel S, Camps J. “CNApp, a tool for the quantification of copy number alterations and integrative analysis revealing clinical implications.” *eLife*, 2020. [[doi](https://doi.org/10.7554/elife.50267)]
+
+### 2019
 
 8\. Toma C\*, __Díaz-Gay M__\*, Soares de Lima Y, Arnau-Collell C, Franch-Expósito S, Muñoz J, Overs B, Bonjoch L, Carballal S, Ocaña T, Cuatrecasas M, Díaz de Bustamante A, Castells A, Bujanda L, Cubiella J, Balaguer F, Rodríguez-Alcalde D, Fullerton JM, Castellví-Bel S. “Identification of a Novel Candidate Gene for Serrated Polyposis Syndrome Germline Predisposition by Performing Linkage Analysis Combined With Whole-Exome Sequencing.” *Clinical and Translational Gastroenterology*, 2019. [[doi](https://doi.org/10.14309/ctg.0000000000000100)]
 
@@ -41,8 +66,12 @@ author_profile: true
 
 4\. Torabi K, Erola P, Alvarez-Mora MI, __Díaz-Gay M__, Ferrer Q, Castells A, Castellví-Bel S, Milà M, Lozano JJ, Miró R, Ried T, Ponsa I, Camps J. “Quantitative analysis of somatically acquired and constitutive uniparental disomy in gastrointestinal cancers.” *International Journal of Cancer*, 2019. [[doi](https://doi.org/10.1002/ijc.31936)]
 
+### 2018
+
 3\. __Díaz-Gay M__, Vila-Casadesús M, Franch-Expósito S, Hernández-Illán E, Lozano JJ, Castellví-Bel S. “Mutational Signatures in Cancer (MuSiCa): a web application to implement mutational signatures analysis in cancer samples.” *BMC Bioinformatics*, 2018. [[doi](https://doi.org/10.1186/s12859-018-2234-y)]
 
 2\. Franch-Expósito S, Esteban-Jurado C, Garre P, Quintanilla I, Duran-Sanchon S, __Díaz-Gay M__, Bonjoch L, Cuatrecasas M, Samper E, Muñoz J, Ocaña T, Carballal S, López-Cerón M, Castells A; EPICOLON consortium, Vila-Casadesús M, Derdak S, Laurie S, Beltran S, Carvajal J, Bujanda L, Ruiz-Ponte C, Camps J, Gironella M, Lozano JJ, Balaguer F, Cubiella J, Caldés T, Castellví-Bel S. “Rare germline copy number variants in colorectal cancer predisposition characterized by exome sequencing analysis.” *Journal of Genetics and Genomics*, 2018. [[doi](https://doi.org/10.1016/j.jgg.2017.12.001)]
+
+### 2017
 
 1\. Esteban-Jurado C, Giménez-Zaragoza D, Muñoz J, Franch-Expósito S, Álvarez-Barona M, Ocaña T, Cuatrecasas M, Carballal S, López-Cerón M, Marti-Solano M, __Díaz-Gay M__, van Wezel T, Castells A, Bujanda L, Balmaña J, Gonzalo V, Llort G, Ruiz-Ponte C, Cubiella J, Balaguer F, Aligué R, Castellví-Bel S. “POLE and POLD1 screening in 155 patients with multiple polyps and early-onset colorectal cancer.” *Oncotarget*, 2017. [[doi](https://doi.org/10.18632/oncotarget.15810)]
