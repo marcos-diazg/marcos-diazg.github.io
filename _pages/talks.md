@@ -11,19 +11,19 @@ author_profile: true
 
 {% endif %}
 
-### 2024
+## 2024
 
 27\. "Assigning mutational signatures to individual samples and individual somatic mutations with SigProfilerAssignment." *RECOMB-CCB, International Society for Computational Biology*, Boston, MA, USA, April 2024. (Oral)
 
 26\. "The mutagenic forces shaping the genomic landscape of lung cancer in never smokers." *AACR Annual Conference, American Association for Cancer Research*, San Diego, CA, USA, April 2024. (Oral)
 
-### 2023
+## 2023
 
 25\. “Unravelling the genomic landscape of cancer through mutational signatures.” *Curso de Entrenamiento Intensivo para el Manejo Interdisciplinario de los Tumores Digestivos, Intergrupo Argentino para el Tratamiento de los Tumores Gastrointestinales* (virtual), September 2023. (Oral, **Invited**)
 
 24\. “Unravelling the genomic landscape of cancer through mutational signatures.” *Future Leaders Virtual Seminar Series, Cancer Grand Challenges (CRUK & NCI)* (virtual), July 2023. (Oral, **Invited**)
 
-### 2022
+## 2022
 
 23\. “Uncovering novel mutational signatures of tobacco smoking with SigProfilerExtractor.” *SoCal Genome Stability Symposium, UC Irvine*, Irvine, CA, USA, December 2022. (Oral, **Invited**)
 
@@ -39,13 +39,13 @@ author_profile: true
 
 17\. “Enrichment of polymerase epsilon and delta exonuclease domain mutations in microsatellite unstable human cancers” *Structural and Functional Genomics Program Annual Retreat, UC San Diego*, La Jolla, CA, USA, March 2022. (Poster)
 
-### 2021
+## 2021
 
 15\. “Enrichment of polymerase epsilon and delta exonuclease domain mutations in microsatellite unstable human cancers” *Moores Cancer Center Delivering Discoveries Scientific Retreat, UC San Diego* (virtual), November 2021. (Poster)
 
 14\. “Enrichment of polymerase epsilon and delta exonuclease domain mutations in microsatellite unstable human cancers” *SoCal Genome Stability Symposium, The Scripps Research Institute* (virtual), September 2021. (Poster, **Best poster prize**)
 
-### 2019
+## 2019
 
 13\. “SigProfilerWeb: a user-friendly web application for mutational signatures refitting according to the new COSMIC framework” *European Hereditary Tumour Group Meeting*, Barcelona, Spain, October 2019. (Oral)
 
@@ -53,13 +53,13 @@ author_profile: true
 
 11\. “Integrated analysis of germline and tumor DNA identifies new candidate genes involved in familial colorectal cancer” *IDIBAPS PhD Day, Institut d'Investigacions Biomèdiques August Pi i Sunyer*, Barcelona, Spain, June 2019. (Poster)
 
-### 2018
+## 2018
 
 10\. “Integrated analysis of germline and tumor DNA for the identification of new candidate genes involved in familial colorectal cancer” *Bioinformatics and Genomics Symposium, Societat Catalana de Biologia*, Barcelona, Spain, December 2018. (Poster)
 
 9\. “Integrated analysis of germline and tumor DNA for the identification of new candidate genes involved in familial colorectal cancer” *Jornadas Científicas CIBERehd*, Barcelona, Spain, November 2018. (Poster)
 
-### 2017
+## 2017
 
 8\. “Mutational Signatures in Cancer (MuSiC): a web application to implement mutational signatures framework in cancer samples” *Bioinformatics and Genomics Symposium, Societat Catalana de Biologia*, Barcelona, Spain, December 2017. (Poster)
 
@@ -70,7 +70,7 @@ author_profile: true
 5\. “Integrated analysis of germline and tumor DNA identifies new candidate genes involved
 in familial colorectal cancer” *Human Genome Meeting, Human Genome Organisation*, Barcelona, Spain, February 2017. (Oral)
 
-### 2016
+## 2016
 
 4\. “Integrated analysis of germline and tumor DNA for the identification of new genes involved in familial colorectal cancer” *Bioinformatics and Genomics Symposium, Societat Catalana de Biologia*, Barcelona, Spain, December 2016. (Oral)
 
@@ -78,6 +78,6 @@ in familial colorectal cancer” *Human Genome Meeting, Human Genome Organisatio
 
 2\. “Constructed wetlands for the treatment of domestic sewage in rural areas of Galicia (Spain): case studies.” *International Society for Environmental Biotechnology*, Barcelona, Spain, June 2016. (Poster)
 
-### 2015
+## 2015
 
 1\. “Highway runoff treatment evaluation using continuous turbidity measurements.” *International Conference on Diffuse Pollution and Eutrophication, International Water Association*, Berlin, Germany, September 2015. (Oral)
