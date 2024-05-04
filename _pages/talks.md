@@ -11,6 +11,9 @@ author_profile: true
 
 {% endif %}
 
+27\. "Assigning mutational signatures to individual samples and individual somatic mutations with SigProfilerAssignment." *RECOMB-CCB, International Society for Computational Biology*, Boston, MA, USA, April 2024. (Oral)
+
+26\. "The mutagenic forces shaping the genomic landscape of lung cancer in never smokers." *AACR Annual Conference, American Association for Cancer Research*, San Diego, CA, USA, April 2024. (Oral)
 
 25\. “Unravelling the genomic landscape of cancer through mutational signatures.” *Curso de Entrenamiento Intensivo para el Manejo Interdisciplinario de los Tumores Digestivos, Intergrupo Argentino para el Tratamiento de los Tumores Gastrointestinales* (virtual), September 2023. (Oral, **Invited**)
 
@@ -29,8 +32,6 @@ author_profile: true
 18\. “Genomic characterization of colorectal cancer across the world by de novo extraction of mutational signatures with SigProfilerExtractor” *European Association for Cancer Research Congress*, Seville, Spain, June 2022. (Oral)
 
 17\. “Enrichment of polymerase epsilon and delta exonuclease domain mutations in microsatellite unstable human cancers” *Structural and Functional Genomics Program Annual Retreat, UC San Diego*, La Jolla, CA, USA, March 2022. (Poster)
-
-16\. “Unraveling the genomic landscape of cancer through mutational signatures” *Universidade de Vigo* (virtual), February 2022. (Oral, **Invited**)
 
 15\. “Enrichment of polymerase epsilon and delta exonuclease domain mutations in microsatellite unstable human cancers” *Moores Cancer Center Delivering Discoveries Scientific Retreat, UC San Diego* (virtual), November 2021. (Poster)
 
