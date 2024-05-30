@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## [Full CV](../files/CV_extended_Marcos-Diaz-Gay_FEB2024.pdf)
+## [Full CV](../files/CV_extended_Marcos-Diaz-Gay_MAY2024.pdf)
 
 ## Research positions
 
