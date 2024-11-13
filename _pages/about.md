@@ -15,10 +15,12 @@ By developing new computational methodologies based on artificial intelligence (
 
 ---------------------------
 
-## 📢 WE'RE HIRING! 📢
+### 📢 WE'RE HIRING! 📢
 
 Two positions are now open at the __Digital Genomics lab__, with highly competitive conditions, to work in innovative cancer genomics methods, mutational signatures, and AI-driven health applications. Please check out the offers at the following links (applications close on Nov. 20):
 
 👩‍💻 [Computational Postdoc](https://www.cnio.es/empleo/postdoctoral-research-assistant-for-the-digital-genomics-group-aidg/) 👨‍💻
 
 🧬 [Research Scientist](https://www.cnio.es/empleo/research-scientist-for-the-digital-genomics-group-rsdg/) 💻
+
+---------------------------
