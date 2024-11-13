@@ -8,7 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher in the group of Prof. Ludmil B. Alexandrov at UC San Diego. Originally trained in engineering, I have focused my career on computational biology, with a strong interest in cancer genomics data analysis.
+I am an incoming Group Leader at the Spanish National Cancer Research Center (CNIO). In the newly formed Digital Genomics lab we are in the pursuit of understanding better the mechanisms behind the accumulation of genomic alterations in human tumors to benefit cancer diagnosis, prognosis, and treatment selection.
 
-My research focuses on developing new computational methodologies that allow the discovery of the underlying mechanisms of cancer predisposition and progression based on specific signatures of somatic mutations. I have an interest in applying these innovative methods to diverse cohorts of cancer patients to better understand the dynamics and evolution of tumors worldwide and to comprehensively characterize the processes leading to tumorigenesis in different populations.
+By developing new computational methodologies based in artificial intelligence (AI), we can identify the underlying mechanisms of cancer predisposition and progression based on specific signatures of somatic mutations. We also have an interest in applying these innovative methods to diverse cohorts of cancer patients to better understand the dynamics and evolution of tumors worldwide and to comprehensively characterize the processes leading to tumorigenesis in different populations.
 
+
+---------------------------
+
+📢 WE'RE HIRING! 📢
+
+Two positions are now open at the Digital Genomics lab, with highly competivie conditions, to work in innovative cancer genomics methods, mutational signatures, and AI-driven health applications. Please check out the offers (applications close on Nov. 20):
+
+👩‍💻 Computational Postdoc 👨‍💻 (https://www.cnio.es/empleo/postdoctoral-research-assistant-for-the-digital-genomics-group-aidg/)
+
+🧬 Research Scientist 💻 (https://www.cnio.es/empleo/research-scientist-for-the-digital-genomics-group-rsdg/)
+
+---------------------------
