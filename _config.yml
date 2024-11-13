@@ -12,7 +12,7 @@ locale                   : "en-US"
 title                    : "Marcos Díaz-Gay"
 title_separator          : "-"
 name                     : &name "Marcos Díaz-Gay"
-description              : &description "Postdoctoral Scholar at the Alexandrov lab (UC San Diego)"
+description              : &description "Incoming Group Leader at CNIO"
 url                      : https://marcos-diazg.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "marcos-diazg/marcos-diazg.github.io"
@@ -84,13 +84,13 @@ analytics:
 author:
   name             : "Marcos Díaz-Gay"
   avatar           : "Headshot_MAR2024.png"
-  bio              : "Postdoctoral Scholar at the Alexandrov lab (UCSD)"
-  location         : "San Diego, CA, USA"
+  bio              : "Incoming Group Leader at CNIO"
+  location         : "Madrid, Spain"
   employer         : 
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=marcos+diaz-gay"
   googlescholar    : "https://scholar.google.es/citations?user=0qxRj2YAAAAJ&hl=es"
   email            : "m.diazgay@outlook.com"
-  researchgate     : "https://www.researchgate.net/profile/Marcos-Diaz-Gay"
+  researchgate     : # "https://www.researchgate.net/profile/Marcos-Diaz-Gay"
   uri              :
   bitbucket        :
   codepen          :
