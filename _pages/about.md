@@ -15,7 +15,7 @@ By developing new computational methodologies based on artificial intelligence (
 
 ---------------------------
 
-### 📢 WE'RE HIRING! 📢
+## 📢 WE'RE HIRING! 📢
 
 Two positions are now open at the __Digital Genomics lab__, with highly competitive conditions, to work in __innovative cancer genomics methods__, __mutational signatures__, and __AI-driven health applications__. Please check out the offers at the following links (applications close on Nov. 20):
 
