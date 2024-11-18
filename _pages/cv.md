@@ -13,8 +13,11 @@ redirect_from:
 
 ## Research positions
 
-* UC San Diego ([Ludmil B. Alexandrov lab](https://alexandrov.cloud.ucsd.edu/))
-  * 2020 – Present: Postdoctoral scholar
+* Spanish National Cancer Research Center, CNIO ([Digital Genomics group](https://www.cnio.es/en/research-innovation/scientific-programmes/structural-biology-programme/digital-genomics-group/))
+  * 2024 – Present: Junior group leader 
+
+* UC San Diego ([Alexandrov lab](https://alexandrov.cloud.ucsd.edu/))
+  * 2020 – 2024: Postdoctoral scholar
   * 2019: Visiting Ph.D. student
   
 * Institut d'Investigacions Biomèdiques August Pi i Sunyer ([Genetic Predisposition to Gastrointestinal Cancer group](https://www.clinicbarcelona.org/en/idibaps/research-areas/liver-digestive-system-and-metabolism/genetic-predisposition-to-gastrointestinal-cancer))
