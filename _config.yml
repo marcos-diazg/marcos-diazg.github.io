@@ -12,7 +12,7 @@ locale                   : "en-US"
 title                    : "Marcos Díaz-Gay"
 title_separator          : "-"
 name                     : &name "Marcos Díaz-Gay"
-description              : &description "Incoming Group Leader at CNIO"
+description              : &description "Group Leader at CNIO"
 url                      : https://marcos-diazg.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "marcos-diazg/marcos-diazg.github.io"
@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Marcos Díaz-Gay"
   avatar           : "Headshot_MAR2024.png"
-  bio              : "Incoming Group Leader at CNIO"
+  bio              : "Group Leader at CNIO"
   location         : "Madrid, Spain"
   employer         : 
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=marcos+diaz-gay"
